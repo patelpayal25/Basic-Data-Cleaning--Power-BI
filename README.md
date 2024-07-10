@@ -1,3 +1,5 @@
+[Salesfile.xlsx](https://github.com/user-attachments/files/16165434/Salesfile.xlsx)
+
 # Basic-Data-Cleaning--Power-BI
 Case study
 
@@ -9,4 +11,4 @@ However, the file also contains errors like missing values, incorrect data types
 
 This exercise aims to assist you in understanding how to address common data issues such as missing values, incorrect data types, and inconsistent formatting.
 
-By the end of this exercise, you’ll understand how to import, clean, and transform data in Power BI Desktop to ensure accurate and reliable analysis.[Salesfile.xlsx](https://github.com/user-attachments/files/16165421/Salesfile.xlsx)
+By the end of this exercise, you’ll understand how to import, clean, and transform data in Power BI Desktop to ensure accurate and reliable analysis.
